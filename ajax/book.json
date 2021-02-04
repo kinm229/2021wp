@@ -1,0 +1,22 @@
+{
+  "book":[
+    {
+      "title":"타인의 해석",
+      "author":"그레드웰",
+      "bookimg":"01.jpg",
+      "href":"https://www.aladin.co.kr/weeklyeditorialmeeting/detail.aspx?wemid=1122"
+    },
+    {
+      "title":"타인의 해석",
+      "author":"그레드웰",
+      "bookimg":"02.jpg",
+      "href":"https://www.aladin.co.kr/weeklyeditorialmeeting/detail.aspx?wemid=1122"
+    },
+    {
+      "title":"타인의 해석",
+      "author":"그레드웰",
+      "bookimg":"03.jpg",
+      "href":"https://www.aladin.co.kr/weeklyeditorialmeeting/detail.aspx?wemid=1122"
+    }
+  ]
+}
